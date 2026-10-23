@@ -1,0 +1,20 @@
+# Data
+data/
+*.tmp
+__pycache__/
+*.pyc
+
+# Scratch
+scratch*
+check*
+inspect*
+test*
+analyze*
+deduce*
+simulate*
+verify*
+generate*
+print*
+train_answers.jsonl
+baseline_answers.jsonl
+evaluate_pipeline.py
